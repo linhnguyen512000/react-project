@@ -1,0 +1,62 @@
+.div1 {
+  width: 100%;
+  position: relative;
+}
+
+.img {
+  width: 100%;
+}
+
+.div2 {
+  position: absolute;
+  top: 25%;
+  left: 35%;
+  background-color: white;
+}
+
+.p1 {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.input {
+  display: block;
+  width: 300px;
+  margin: 0 40px;
+  padding: 5px 0 5px 10px;
+  border: 1px solid grey;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.input2 {
+  border-bottom: none;
+}
+
+.p3 {
+  margin-left: 40px;
+  color: red;
+}
+
+.button {
+  margin: 10px 40px;
+  width: 300px;
+  border: none;
+  background-color: black;
+  color: white;
+  padding: 7px 0;
+  text-transform: uppercase;
+}
+
+.p2 {
+  font-size: 14px;
+  text-align: center;
+}
+
+.a {
+  text-decoration: none;
+}

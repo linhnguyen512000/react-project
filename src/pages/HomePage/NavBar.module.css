@@ -1,0 +1,48 @@
+.flex {
+  align-items: end;
+}
+
+.home {
+  color: #e5c366;
+  width: 4%;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.shop {
+  width: 4%;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.head {
+  padding-left: 580px;
+
+  font-weight: 400;
+  font-size: 30px;
+  font-style: italic;
+  width: 62%;
+}
+
+.cart {
+  width: 6%;
+  font-style: italic;
+}
+
+.login {
+  width: 14%;
+  font-style: italic;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.text1 {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.col1 {
+  display: inline-block;
+}

@@ -1,0 +1,24 @@
+.div {
+  width: 1200px;
+  height: 300px;
+  margin: 0px auto;
+  position: relative;
+  background-color: rgb(227, 215, 215);
+}
+
+.text1 {
+  position: absolute;
+  left: 100px;
+  top: 50%;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.text2 {
+  position: absolute;
+  color: grey;
+  font-style: italic;
+  font-size: 20px;
+  right: 100px;
+  top: 55%;
+}

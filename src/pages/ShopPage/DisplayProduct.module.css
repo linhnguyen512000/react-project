@@ -1,0 +1,119 @@
+.div1 {
+  width: 1200px;
+  margin: 0px auto;
+  position: relative;
+}
+
+.div2 {
+  width: 200px;
+  height: 1100px;
+}
+
+.category {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.apple {
+  color: white;
+  background-color: black;
+  font-style: italic;
+  text-transform: uppercase;
+  padding: 5px 0px 5px 20px;
+}
+
+.select {
+  font-style: italic;
+  color: grey;
+  padding: 2px 0px 2px 20px;
+  cursor: pointer;
+}
+
+.select:hover {
+  color: #e5c366;
+}
+
+.highlight {
+  color: #e5c366;
+}
+
+.type {
+  font-weight: 600;
+  font-style: italic;
+  text-transform: uppercase;
+  background-color: rgb(228, 238, 244);
+  padding: 5px 0px 5px 20px;
+}
+
+.div3 {
+  position: absolute;
+  left: 250px;
+  top: 20px;
+}
+
+.input {
+  padding: 5px 10px;
+  width: 300px;
+  margin-right: 520px;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.div4 {
+  margin: 10px 0px 0px 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.img {
+  margin: 0 0 0 40px;
+  width: 220px;
+  height: 230px;
+}
+
+.img:hover {
+  opacity: 0.7;
+}
+
+.name {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.price {
+  text-align: center;
+  color: grey;
+  font-style: italic;
+}
+
+.div5 {
+  position: absolute;
+  bottom: -50px;
+  right: 10px;
+  width: 90px;
+}
+
+.button,
+.button:focus,
+.button:active {
+  border: 1px solid grey;
+  background: none;
+  outline: none;
+  padding: 0;
+}
+
+.p {
+  display: inline-block;
+  font-size: 13px;
+  color: white;
+  background-color: black;
+  padding: 2px 7px;
+}

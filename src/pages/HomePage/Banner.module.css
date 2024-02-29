@@ -1,0 +1,36 @@
+.div {
+  width: 1200px;
+  margin: 0px auto;
+  position: relative;
+}
+
+.img {
+  width: 1200px;
+}
+
+.container {
+  position: absolute;
+  left: 100px;
+  top: 200px;
+}
+
+.p {
+  text-transform: uppercase;
+  font-style: italic;
+  color: grey;
+}
+
+.h1 {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.button {
+  border: none;
+  color: white;
+  font-style: italic;
+  background-color: black;
+  padding: 5px 7px;
+}

@@ -1,0 +1,176 @@
+.div0 {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.p1 {
+  font-size: 30px;
+  font-style: italic;
+  margin: 20px 0;
+}
+
+.div00 {
+  display: flex;
+}
+
+.div000 {
+  display: inline-block;
+  width: 780px;
+}
+
+.div1 {
+  display: flex;
+  width: 780px;
+  font-style: italic;
+  background-color: rgb(211, 206, 206);
+  padding: 5px 0;
+}
+
+.p {
+  margin: 0;
+  padding: 5px 20px 5px 20px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.p2 {
+  padding: 5px 30px 5px 20px;
+}
+
+.p3 {
+  padding: 5px 60px 5px 40px;
+}
+
+.p4 {
+  padding: 5px 50px 5px 50px;
+}
+
+.p6 {
+  padding: 5px 40px 5px 40px;
+}
+
+.p7 {
+  padding: 5px 30px 5px 40px;
+}
+
+.div2 {
+  display: inline-block;
+}
+
+.div3 {
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  margin: 10px 0 0 10px;
+  width: 60px;
+  height: 80px;
+}
+
+.p8 {
+  width: 200px;
+  text-align: center;
+  text-transform: none;
+  font-style: italic;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+}
+
+.icon {
+  margin: 0 0 0 45px;
+}
+
+.div4 {
+  background-color: rgb(211, 206, 206);
+  width: 780px;
+  padding-bottom: 5px;
+  display: inline-block;
+}
+
+.button2 {
+  color: grey;
+  text-transform: none;
+  font-style: italic;
+  font-weight: 400;
+  margin-right: 400px;
+  background-color: inherit;
+  border: none;
+}
+
+.button3 {
+  color: grey;
+  text-transform: none;
+  font-style: italic;
+  font-weight: 400;
+  border: 2px solid rgb(96, 95, 95);
+  padding: 0px 5px 3px;
+}
+
+.p12 {
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+  color: grey;
+}
+
+.div5 {
+  background-color: rgb(211, 205, 205, 0.6);
+  display: inline-block;
+  width: 400px;
+  margin-left: 20px;
+  padding: 30px;
+  font-style: italic;
+}
+
+.p15 {
+  display: block;
+  font-size: 25px;
+  font-weight: 400;
+  padding: 0;
+}
+
+.div6 {
+  border-bottom: 1px solid black;
+}
+
+.p16 {
+  font-size: 18px;
+  padding: 0;
+  margin-right: 100px;
+}
+
+.p17 {
+  font-size: 15px;
+  font-weight: 400;
+  color: grey;
+}
+
+.p18 {
+  font-size: 18px;
+  padding: 0;
+  margin-right: 122px;
+}
+
+.p19 {
+  font-weight: 400;
+}
+
+.input {
+  width: 340px;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.button4 {
+  width: 340px;
+  color: white;
+  background-color: black;
+  padding: 5px 0;
+}

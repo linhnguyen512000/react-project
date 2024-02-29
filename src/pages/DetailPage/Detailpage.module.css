@@ -1,0 +1,177 @@
+.div0 {
+  margin: 20px auto 0;
+  width: 1200px;
+}
+
+.div1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1r;
+}
+
+.div2 {
+  position: relative;
+  height: 400px;
+}
+
+.img1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.img2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 100px;
+  left: 0;
+}
+
+.img3 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 200px;
+  left: 0;
+}
+
+.img4 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 300px;
+  left: 0;
+}
+
+.img5 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 0;
+  left: 100px;
+}
+
+.name {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.price {
+  font-size: 20px;
+  color: grey;
+  font-style: italic;
+}
+
+.shortdesc {
+  font-style: italic;
+  color: grey;
+}
+
+.category1 {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.category2 {
+  display: inline-block;
+  color: grey;
+  width: 500px;
+}
+
+.quantity {
+  border: 1px solid grey;
+  border-right: none;
+  display: inline-block;
+  padding: 2px 40px 2px 5px;
+  text-transform: uppercase;
+  font-style: italic;
+  color: grey;
+}
+
+.button {
+  border: 1px solid grey;
+  border-right: none;
+  border-left: none;
+  display: inline-block;
+  padding: 2px 5px;
+  background: none;
+}
+
+.p {
+  border: 1px solid grey;
+  border-right: none;
+  border-left: none;
+  display: inline-block;
+  padding: 2px 0px;
+}
+
+.button1 {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px 20px;
+}
+
+.div4 {
+  margin-top: 40px;
+  width: 600px;
+}
+
+.text1 {
+  background-color: black;
+  color: white;
+  padding: 7px 13px;
+  display: inline-block;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.text2,
+.text4 {
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.text3 {
+  color: grey;
+  font-style: italic;
+}
+
+.div5 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+.img {
+  margin: 0 0 0 40px;
+  width: 220px;
+  height: 230px;
+}
+
+.img:hover {
+  opacity: 0.7;
+}
+
+.text5 {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.text6 {
+  text-align: center;
+  color: grey;
+  font-style: italic;
+}
